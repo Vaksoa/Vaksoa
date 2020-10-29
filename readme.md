@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **everything**
 
-- 🌐 I'm looking forward to **release more projects and work with people**
+- 🌐 I'm looking forward to **release more projects and to work with more people**
 
 - ⚡ I like **helping people**
 
