@@ -1,7 +1,7 @@
 <h1 align="center">Hey, i am Pellucid</h1>
 <h3 align="center">A passionate developer from Poland</h3>
 
-<p align="left"> 
+<p align="center"> 
   <a href="https://twitter.com/pelluciddev" target="blank"><img src="https://img.shields.io/twitter/follow/pelluciddev?color=%231DA1F2&label=Twitter&style=for-the-badge" alt="pelluciddev" /></a>
   <a href="https://discord.gg/6b6vF5ZGSN" target="blank"><img src="https://img.shields.io/discord/704423873415741510?color=%237289da&label=Discord&style=for-the-badge" alt="bluefoxhost"/></a> 
 </p>
