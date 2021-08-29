@@ -7,7 +7,7 @@
 
 - This is my portfolio website [https://pella.com](https://pella.com)
 
-- Contact me via my email **pelladev@protonmail.com**
+- Contact me via discord **Pellucid#6523**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
