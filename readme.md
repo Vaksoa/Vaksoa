@@ -6,7 +6,7 @@
   <a href="https://discord.gg/6b6vF5ZGSN" target="blank"><img src="https://img.shields.io/discord/704423873415741510?color=%237289da&label=Discord&style=for-the-badge" alt="bluefoxhost"/></a> 
 </p>
 
-- I’m currently working on **BlueFox VPN Client**
+- I’m currently working on **Norifa Security**
 
 - I’m willing to do **commissions**
 
