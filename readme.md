@@ -10,16 +10,16 @@
   <a><img src="https://komarev.com/ghpvc/?username=vaksoa&label=Profile%20views&style=flat-square&color=yellow" alt="vaksoa"></a>
 </p>
 
-- I’m currently working on **Norifa Security**
+- I’m currently working with **TeleportHQ**
 
 - I’m willing to do **commissions**
 
-- Contact me via discord **Pellucid#0001**
+- Contact me via discord **Pellucid#2399**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pelluciddev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pelluciddev" height="30" width="40" /></a>
-<a href="https://discord.gg/6b6vF5ZGSN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="6b6vF5ZGSN" height="30" width="40" /></a>
+<a href="https://discord.gg/gnpb4YQB" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="6b6vF5ZGSN" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
